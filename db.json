@@ -1,11 +1,4 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {"applicationId": "A100", "customerName": "Akshay", "propertyId": "P1234","applicationDate":"07 Aug 2013", "status":"Approved","pendingSince":5}
+
+]
