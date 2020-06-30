@@ -1,5 +1,5 @@
-{ "Corona":[
-  {"country": "A100", "cases": 2132, "todayCases": 3232},
-  {"country": "A100", "cases": 2132, "todayCases": 3232}
+{ "employees":[
+  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123"},
+  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123"}
 
 ]}
