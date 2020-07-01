@@ -1,6 +1,6 @@
 { "employees":[
   {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","status":"Approved","pendingSince":5},
-  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","status":"Approved","pendingSince":2},
+  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","status":"Pending for scrutiny","pendingSince":2},
   {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","status":"Approved","pendingSince":5},
   {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","status":"Approved","pendingSince":2},
   {"applicationId": "A100", "customerName": "asdsad", "propertyId": "P123","status":"Approved","pendingSince":5},
