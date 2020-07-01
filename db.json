@@ -1,15 +1,15 @@
 { "employees":[
-  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","status":"Approved","pendingSince":5},
-  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","status":"Pending for scrutiny","pendingSince":2},
-  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","status":"Approved","pendingSince":5},
-  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","status":"Approved","pendingSince":2},
-  {"applicationId": "A100", "customerName": "asdsad", "propertyId": "P123","status":"Approved","pendingSince":5},
-  {"applicationId": "A200", "customerName": "rewe", "propertyId": "P123","status":"Approved","pendingSince":2},
-  {"applicationId": "A100", "customerName": "csfcds", "propertyId": "P123","status":"Approved","pendingSince":5},
-  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","status":"Approved","pendingSince":2},
-  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","status":"Approved","pendingSince":5},
-  {"applicationId": "A200", "customerName": "shicdscmla", "propertyId": "P123","status":"Approved","pendingSince":2},
-  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","status":"Approved","pendingSince":5},
-  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","status":"Approved","pendingSince":2}
+  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","applicationDate":"27/01/2020","status":"Approved","pendingSince":5},
+  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","applicationDate":"30/01/2020","status":"Pending for scrutiny","pendingSince":2},
+  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":5},
+  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":2},
+  {"applicationId": "A100", "customerName": "asdsad", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":5},
+  {"applicationId": "A200", "customerName": "rewe", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":2},
+  {"applicationId": "A100", "customerName": "csfcds", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":5},
+  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":2},
+  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":5},
+  {"applicationId": "A200", "customerName": "shicdscmla", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":2},
+  {"applicationId": "A100", "customerName": "Sharma", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":5},
+  {"applicationId": "A200", "customerName": "shimla", "propertyId": "P123","applicationDate":"30/01/2020","status":"Approved","pendingSince":2}
 
 ]}
