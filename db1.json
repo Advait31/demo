@@ -1,0 +1,12 @@
+{
+  "applicationId": "abc",
+  "customerName": "xyz",
+  "details": {
+    "propertyId": "id",
+    "name": "name"
+  },
+  "proudct2": {
+    "applicationDate": "Date",
+    "name": "name"
+  }
+}
